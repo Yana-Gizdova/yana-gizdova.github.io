@@ -21,7 +21,6 @@ const itemsObject = {
 const LocalDynamic = () => {
   return(
     <>
-      <h2 style={{margin:'0.25em'}}>Local Dynamic</h2>
       <h3> Drag and drop to reorder the elements </h3>
       <div style={{ flexDirection:'column',display: 'flex', alignItems: 'center' }}>
         <DraggableList items={itemsObject} />
