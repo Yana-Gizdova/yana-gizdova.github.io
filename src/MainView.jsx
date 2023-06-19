@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import imgUrl from './assets/Rocket3.gif';
 
 const MainView = () => {
   document.title = "Dynamic";

@@ -78,11 +78,11 @@ export default function DraggableList({ items }) {
 
   return (
     <>
-      <ul style={{ listStyleType: 'none', width: '60%' }}>
+      <ul style={{ listStyleType: 'none', width: '50%' }}>
         {order.map((element, i) => (
           <Item
             key={element}
-            height={30}
+            height={40}
             i={i}
             updatePosition={updatePosition}
             updateOrder={updateOrder}
