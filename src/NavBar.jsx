@@ -35,7 +35,7 @@ function Navbar() {
         ...navbarSectionStyle,
         borderLeft: 'none',
       }}>
-        Dinamica
+        Dynamic
       </NavLink>
       <NavLink to="/" className="linkButton" style={navBarTitle}>
         Survival On The Moon
