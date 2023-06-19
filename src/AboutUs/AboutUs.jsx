@@ -11,7 +11,7 @@ export default function AboutUs() {
     <p>The final purpose of each participant is to order the list of resources in order of importance from 1 to 15.</p>
     <p>Once the group has finished the dynamic, the page will show the results of the group and the results of the rest of the groups.</p>
     <p>This page was developed by 4 students from the Polytechnic University of Madrid.</p>
-    <p>For more information about the project, you can contact us at the following linkIn addresses:</p>"
+    <p>For more information about the project, you can contact us at the following linkIn addresses: </p>"
     <ul>
       <li>Carlos Nieto Petinal: <a href="https://www.linkedin.com/in/carlosnietopetinal/">https://www.linkedin.com/in/carlosnietopetinal/</a></li>
       <li>César Agulló Quirós: <a href="https://www.linkedin.com/in/c%C3%A9sar-agull%C3%B3-a299a622b/">https://www.linkedin.com/in/c%C3%A9sar-agull%C3%B3-a299a622b/</a></li>
