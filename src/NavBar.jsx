@@ -10,6 +10,7 @@ function Navbar() {
     height: '10vh',
     backgroundColor: '#333',
     color: '#fff',
+    zIndex: 10000,
   };
 
   const navbarSectionStyle = {
