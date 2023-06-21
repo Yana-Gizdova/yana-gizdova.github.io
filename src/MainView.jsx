@@ -20,12 +20,12 @@ const MainView = () => {
       </Link>
       <Link to="/start_dynamic">
         <button style={{ margin: '0.7em', fontSize: '2.5em', color: 'white' }}>
-          Create Room
+          Create Room (WIP)
         </button>
       </Link>
       <Link to="/join_dynamic">
         <button style={{ margin: '0.7em', fontSize: '2.5em', color: 'white' }}>
-          Join Room
+          Join Room (WIP)
         </button>
       </Link>
     </>
