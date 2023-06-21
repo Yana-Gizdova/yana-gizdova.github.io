@@ -3,6 +3,8 @@ import MainView from './MainView.jsx';
 import NavBar from './NavBar.jsx';
 import LocalDynamic from './LocalDynamic/LocalDynamic.jsx';
 import AboutUs from './AboutUs/AboutUs.jsx';
+import StartDynamic from './WebDynamic/StartDynamic.jsx';
+import JoinDynamic from './WebDynamic/JoinDynamic.jsx';
 
 function App() {
   document.title = "Survival on the Moon";
@@ -13,6 +15,8 @@ function App() {
         <Route path="/" exact element={<MainView />} />
         <Route path="/local_dynamic" element={<LocalDynamic />} />
         <Route path="/about_us" element={<AboutUs />} />
+        <Route path="/join_dynamic" element={<JoinDynamic />} />
+        <Route path="/start_dynamic" element={<StartDynamic />} />
       </Routes>
       <div className="background-container">
         <div className="stars" />
